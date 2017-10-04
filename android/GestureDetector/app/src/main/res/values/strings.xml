@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gesture Detector</string>
+    <string name="GestureName">Hello World!</string>
+    <string name="Title">My App</string>
+</resources>
